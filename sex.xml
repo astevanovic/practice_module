@@ -1,0 +1,13 @@
+<opts>
+  <opt>Male
+    <desc>Subject exhibits male features.</desc>
+  </opt>
+
+  <opt>Female
+    <desc>Subject exhibits female features.</desc>
+  </opt>
+
+  <opt>Cannot Specify
+    <desc>Subject exhibits male and female features making it difficult to accurately distinguish.</desc>
+  </opt>
+</opts>
