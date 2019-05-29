@@ -1,0 +1,17 @@
+<opts>
+  <opt>Tutor
+    <desc>Subject appears to be a tutor</desc>
+  </opt>
+
+  <opt>Lecturer
+    <desc>Subject appears to be a lecturer</desc>
+  </opt>
+
+  <opt>Convenor
+    <desc>Subject appears to be a convenor</desc>
+  </opt>
+
+  <opt>Other
+    <desc>Subject appears to be some other type of staff member</desc>
+  </opt>
+</opts>
