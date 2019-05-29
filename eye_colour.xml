@@ -1,0 +1,25 @@
+<opts>
+  <opt>Brown
+    <desc>A darker deeper brown shade</desc>
+  </opt>
+
+  <opt>Hazel
+    <desc>A light brown to strong yellowish brown</desc>
+  </opt>
+
+  <opt>Blue
+    <desc>A light blue shade</desc>
+  </opt>
+
+  <opt>Green
+    <desc>Light green shade with fleks of brown or blue present</desc>
+  </opt>
+
+  <opt>Grey
+    <desc>Light greyish blue shade</desc>
+  </opt>
+
+  <opt>Amber
+    <desc>Yellowish, golden, or copper-colored with no brown, green or orange fleks</desc>
+  </opt>
+</opts>
