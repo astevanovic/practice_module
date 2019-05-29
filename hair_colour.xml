@@ -1,0 +1,129 @@
+<opts>
+  <opt>Blonde
+    <opt>Platinum Blonde
+      <desc>Platinum blonde hair colour is a pale blonde or silver colour.</desc>
+    </opt>
+
+    <opt>Natural Blonde
+      <desc>Natural blonde hair color is multidimensional, having several similar blonde shades within the same family of color</desc>
+    </opt>
+
+    <opt>Ash Blonde
+      <desc>Ash blonde hair color is a darker, cooler shade of silvery blonde</desc>
+    </opt>
+
+    <opt>Dirty Blonde
+      <desc>Dirty blonde hair color is a medium-hued blonde with tones of wheat, or “dirt” color strewn throughout.</desc>
+    </opt>
+
+    <opt>Brownish Blonde
+      <desc>“Bronde” hair color is a warm, natural-looking blonde hue with </desc>
+    </opt>
+  </opt>
+
+  <opt>Brunette
+    <opt>Light Caramel
+      <desc>Light caramel brown hair color is a warm, tawny shade.</desc>
+    </opt>
+
+    <opt>Light Ash Brown
+      <desc>Light ash brown hair color is cool toned with silver undertones</desc>
+    </opt>
+
+    <opt>Golden Bronze Brown
+      <desc>Golden Bronze Brown is a warm, subtle blend of golden and red tones on brown hair</desc>
+    </opt>
+
+    <opt>Dark Chocolate Brown
+      <desc>Dark chocolate hair is a rich, deep, cool brown hue.</desc>
+    </opt>
+
+    <opt>Chesnut Brown
+      <desc>Chestnut brown hair is a rich, deep, reddish brown.</desc>
+    </opt>
+  </opt>
+
+  <opt>Black
+    <opt>Soft Black
+      <desc></desc>
+    </opt>
+
+    <opt>Natural Black
+      <desc>Natural black is a deep hair hue that has natural relects thorughout.</desc>
+    </opt>
+
+    <opt>Reflective Blue Black
+      <desc>Reflective blue black hair will go from black to deepest blue.</desc>
+    </opt>
+
+    <opt>Reflective Auburn Black
+      <desc>Auburn black hair combines the best of both soft black hair color and warm, reflective red tones.</desc>
+    </opt>
+
+    <opt>Brown Black
+      <desc>Brown black is the richest possible brown which is the intersection of brown and black hair color.</desc>
+    </opt>
+
+    <opt>Jet Black
+      <desc>Jet black is the deepest version of black hair color with subtle hints of cool tones.</desc>
+    </opt>
+  </opt>
+
+  <opt>Red
+    <opt>Strawberry blonde
+      <desc>Strawberry blonde is a blend of blonde with the earthier red tones, often looking orange or pink</desc>
+    </opt>
+
+    <opt>Ginger
+      <desc>Ginger hair is a more orange looking red hue.</desc>
+    </opt>
+
+    <opt>Deep Red
+      <desc>Deep red combines the rich darness of auburn hair without the brown tones.</desc>
+    </opt>
+
+    <opt>Auburn
+      <desc>Auburn hair has the dark red tones mixed in with brown</desc>
+    </opt>
+  </opt>
+
+  <opt>Ombre
+    <opt>Dark Brown to Blonde
+      <desc>Dark Brown to Blonde ombre transitions from a dark brown shade at the roots to a light blonde near the ends.</desc>
+    </opt>
+
+    <opt>Black to Blonde
+      <desc>Black to Blonde ombre transitions from a black shade at the roots to a light blonde near the ends.</desc>
+    </opt>
+
+    <opt>Black to Grey
+      <desc>Black to Grey ombre transitions from a black shade at the roots to a silvery grey near the ends.</desc>
+    </opt>
+
+    <opt>Dark Brown to Light Brown
+      <desc>Dark Brown to Light Brown ombre transitions from a dark brown shade at the roots to a light brown near the ends.</desc>
+    </opt>
+  </opt>
+
+  <opt>Coloured
+    <opt>Pink
+      <desc>Pink hair is a light shade of pink</desc>
+    </opt>
+
+    <opt>Blue
+      <desc>Blue hair is a shade of bue</desc>
+    </opt>
+
+    <opt>Green
+      <desc>Green hair is a shade of green</desc>
+    </opt>
+
+    <opt>Purple
+      <desc>Purple hair is a shade of purple</desc>
+    </opt>
+
+    <opt>Cherry Red
+      <desc>Cherry Red hair is a bright darker shade of a redish pink</desc>
+    </opt>
+  </opt>
+</opts>
