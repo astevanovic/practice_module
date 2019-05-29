@@ -1,0 +1,13 @@
+<opts>
+  <opt>Cafe employee
+    <desc>Subject appears to work at the cafe in the library</desc>
+  </opt>
+
+  <opt>Subject appears to work at the cafe in the library
+    <desc>Subject appears to work at the library</desc>
+  </opt>
+
+  <opt>Other
+    <desc>Subject appears to work within the library but is not a cafe or library employee</desc>
+  </opt>
+</opts>
