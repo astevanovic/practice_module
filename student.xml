@@ -1,0 +1,29 @@
+<opts>
+  <opt>High School
+    <desc>Subjet appears to attend High School</desc>
+  </opt>
+
+  <opt>MQU
+    <desc>Subjet appears to attend Macquarie University</desc>
+  </opt>
+
+  <opt>UNSW
+    <desc>Subjet appears to attend University of New South Wales</desc>
+  </opt>
+
+  <opt>USYD
+    <desc>Subjet appears to attend Sydney University</desc>
+  </opt>
+
+  <opt>UTS
+    <desc>Subjet appears to attend University of Technology Sydney</desc>
+  </opt>
+
+  <opt>UWS
+    <desc>Subjet appears to attend University of Western Sydney</desc>
+  </opt>
+
+  <opt>Other
+    <desc>Subjet appears to attend a different insitution</desc>
+  </opt>
+</opts>
